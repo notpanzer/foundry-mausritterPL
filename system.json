@@ -156,8 +156,8 @@
   },
   "primaryTokenAttribute": "health",
   "url": "https://github.com/notpanzer/foundry-mausritterPL",
-  "manifest": "https://raw.githubusercontent.com/notpanzer/foundry-mausritterPL/v10/system.json",
-  "download": "https://github.com/notpanzer/foundry-mausritterPL/archive/v10.zip",
+  "manifest": "https://raw.githubusercontent.com/notpanzer/foundry-mausritterPL/20/system.json",
+  "download": "https://github.com/notpanzer/foundry-mausritterPL/archive/v20.zip",
   "license": "LICENSE.txt",
   "id": "mausritter",
   "authors": [
